@@ -1,6 +1,6 @@
 pwd# Your First Learn Lab
 
-## Problem Statement
+## "my-new-file"
 
 Before we begin diving deep into code, it is important to make sure that we go
 over the proper steps involved in completing labs on Learn. In this _lab_ (yep,
