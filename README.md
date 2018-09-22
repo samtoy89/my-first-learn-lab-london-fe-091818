@@ -1,12 +1,12 @@
 pwd# Your First Learn Lab
 
-## "my-new-file"
+## "my-new-file.text"
 
 Before we begin diving deep into code, it is important to make sure that we go
 over the proper steps involved in completing labs on Learn. In this _lab_ (yep,
 this is a lab!), we will be introducing those steps.
 
-## Objectives
+##"Objectives"
 
 1. Introduce the concept of running tests on Learn
 2. Pass the tests to confirm you are ready for future lessons
