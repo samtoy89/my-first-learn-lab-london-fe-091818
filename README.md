@@ -12,7 +12,7 @@ this is a lab!), we will be introducing those steps.
 1. Introduce the concept of running tests on Learn
 2. Pass the tests to confirm you are ready for future lessons
 
-## Labs Are Lessons _with Tests_
+ Labs Are Lessons _with Tests_
 
 On Learn, labs are lessons with tests. The difficulty level of labs will vary,
 but they all follow the same core steps. To start any lab, if you are using the
@@ -50,7 +50,7 @@ For the final step, when you run `learn submit`, the work you've completed is
 sent back, learn.co is notified, registers that you've sent in your work and
 marks that you have completed the lab.
 
-## Reinforce What We Have Learned About Labs
+ Reinforce What We Have Learned About Labs
 
 The best way to understand the workflow described above is to apply it! There is
 _one_ test in this lab.  In order to pass the test, follow the numbered steps above. The
@@ -59,7 +59,7 @@ provide information about how to pass.
 
 When you've passed the test, run `learn submit`.
 
-## Conclusion
+ Conclusion
 
 That's it, you're done! Again, lab difficulty will vary greatly depending on the
 learning goals within them. Some will be more guided, as you are introduced to
