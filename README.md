@@ -1,11 +1,13 @@
 
 rspec ./spec/lab_spec.rb:4
+Full Screen
+
 
 Before we begin diving deep into code, it is important to make sure that we go
 over the proper steps involved in completing labs on Learn. In this _lab_ (yep,
 this is a lab!), we will be introducing those steps.
 
-##"my-new-file.text"
+"my-new-file.text"
 
 1. Introduce the concept of running tests on Learn
 2. Pass the tests to confirm you are ready for future lessons
